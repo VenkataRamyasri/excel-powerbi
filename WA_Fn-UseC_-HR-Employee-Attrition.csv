@@ -1,0 +1,13 @@
+﻿,,,,,,,,,grouping the satisfaction count,
+Attrition rate by department,,,Average monthly income by job role,,,Attrition and count of attrition,,,Row Labels,Count of Ratinginvar
+Row Labels,Count of Attrition,,Row Labels,Average of MonthlyIncome,,Row Labels,Count of Attrition,,high,459
+Human Resources,63,,Healthcare Representative,7528.763359,,No,1233,,low,569
+Research & Development,961,,Human Resources,4235.75,,Yes,237,,medium,442
+Sales,446,,Laboratory Technician,3237.169884,,Grand Total,1470,,Grand Total,1470
+Grand Total,1470,,Manager,17181.67647,,,,,,
+,,,Manufacturing Director,7295.137931,,,,,,
+,,,Research Director,16033.55,,,,,,
+,,,Research Scientist,3239.972603,,,,,,
+,,,Sales Executive,6924.279141,,,,,,
+,,,Sales Representative,2626,,,,,,
+,,,Grand Total,6502.931293,,,,,,
